@@ -1,0 +1,11 @@
+.DS_Store
+
+# Compiled source #
+runs/
+
+# Yolo weights
+yolov8x.pt
+
+# Input and output videos
+input_videos/
+output_videos/
