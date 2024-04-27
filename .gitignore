@@ -3,8 +3,12 @@
 # Compiled source #
 runs/
 
+# Datasets
+training/football-players-detection-8
+
 # Yolo weights
 yolov8x.pt
+yolov5**.pt
 
 # Input and output videos
 input_videos/
