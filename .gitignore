@@ -9,6 +9,7 @@ training/football-players-detection-8
 # Yolo weights
 yolov8x.pt
 yolov5**.pt
+models/
 
 # Input and output videos
 input_videos/
