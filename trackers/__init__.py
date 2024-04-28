@@ -1,1 +1,2 @@
-from .trackrer import Tracker
+from .tracker import Tracker
+from .annotator import Annotator
