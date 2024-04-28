@@ -1,10 +1,11 @@
 .DS_Store
+__pycache__
 
 # Compiled source #
 runs/
 
 # Datasets
-training/football-players-detection-8
+training/football-players-detection-8/
 
 # Yolo weights
 yolov8x.pt
@@ -14,3 +15,6 @@ models/
 # Input and output videos
 input_videos/
 output_videos/
+
+# Stubs
+stubs/
